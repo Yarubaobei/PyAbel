@@ -115,7 +115,7 @@ class StepAnalytical(BaseAnalytical):
 
         Parameters
         ----------
-        r1 : 1D array
+        r : 1D array
             vecor of positions along the r axis. Must start with 0.
         r0, r1 : float
             positions of the step along the r axis
